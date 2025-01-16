@@ -9,3 +9,4 @@ shard = 1
 ending = "splitter"
 input_file_path_1 = "files"
 output_file_path_1 = "files"
+output_file_path_2 = "files"
